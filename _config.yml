@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: WZ.PY.LU
+title:WZ.PY.LU
 subtitle:收藏个人喜爱网站
 description:WZ.PY.LU收藏个人喜欢和有用的网站
 keywords:网站，网址，导航，网站大全
-author: PY.LU
+author:PY.LU
 language:zh-CN
 timezone:Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wz.py.lu
+url:https://wz.py.lu
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
